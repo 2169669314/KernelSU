@@ -178,4 +178,6 @@
     <string name="color_teal">Тил</string>
     <string name="color_pink">Розово</string>
     <string name="color_brown">Кафяво</string>
+    <string name="module_repo">Хранилище на модули</string>
+    <string name="module_reinstall">Реинсталирайте</string>
 </resources>
