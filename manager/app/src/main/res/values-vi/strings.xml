@@ -179,4 +179,6 @@
     <string name="settings_key_color">Màu nhấn</string>
     <string name="feature_status_managed_summary">Tính năng này được quản lý bởi một module.</string>
     <string name="feature_status_unsupported_summary">Kernel không hỗ trợ tính năng này.</string>
+    <string name="module_repo">Kho lưu trữ Module</string>
+    <string name="module_reinstall">Cài đặt lại</string>
 </resources>
