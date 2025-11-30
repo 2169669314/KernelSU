@@ -64,7 +64,6 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           files: |
-            tag_name: ${{ github.ref_name }}  # 使用当前触发workflow的标签
             manager/*.apk
             android*-lkm/*_kernelsu.ko
             AnyKernel3-*.zip
